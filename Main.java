@@ -3,9 +3,6 @@
 //輸入波的平率 , 輸出波的一顆光子能量
 //平率請以科學記號的行式輸入(#.##*10^##)
 
-
-
-package com.pgdr;
 import java.text.DecimalFormat;
 import  java.util.Scanner;
 
